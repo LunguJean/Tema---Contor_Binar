@@ -11,7 +11,8 @@ cu 1.
 
 Inainte de a incepe proiectul, am facut o recapitulare a notiunilor studiate la CID si am urmarit videoclipurile 
 Am inceput sa schitez o schema a FSM-ului ce ar putea realiza operatiile de incrementare si decrementare:
-<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/2bbc43bf-9ca0-4a6a-a9fa-938649b3a01b" />
+<img width="653" height="410" alt="image" src="https://github.com/user-attachments/assets/5675a09a-66a8-4fff-ba89-3a4f7396f295" />
+
 
 
 Probleme aparute:
