@@ -16,8 +16,11 @@ Am inceput sa schitez o schema a FSM-ului ce ar putea realiza operatiile de incr
 
 
 Probleme aparute:
+
 1.Daca incrementez un numar maxim,trebuie sa se reseteze 
+
 2.Daca decrementez 0 sa rezulte numarul maxim
+
 Aceste aspecte le-am studiat, intelegand acum notiunea de overflow.
 
 3.Ce se intampla daca tin apasat un buton? - m-am documentat despre implementarea
