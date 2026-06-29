@@ -30,3 +30,5 @@ Aceste aspecte le-am studiat, intelegand acum notiunea de overflow.
 
 3.Ce se intampla daca tin apasat un buton? - m-am documentat despre implementarea
 unui edge detector
+
+4.In momentul in care se incrementeaza numarul maxim, este necesar sa aprind un alt led pe placa pentru a sti acest lucru?
