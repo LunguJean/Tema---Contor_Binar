@@ -18,6 +18,8 @@ Inainte de a incepe proiectul, am facut o recapitulare a notiunilor studiate la 
 Am inceput sa schitez o schema a FSM-ului ce ar putea realiza operatiile de incrementare ,decrementare si reset:
 <img width="653" height="410" alt="image" src="https://github.com/user-attachments/assets/5675a09a-66a8-4fff-ba89-3a4f7396f295" />
 
+Am realizat un debouncer pentru fiecare buton de inc, dec si reset deoarece butoanele produc oscilatii ale semnalului ce pot fi intertpretate 
+gresit.
 
 
 Probleme aparute:
@@ -31,4 +33,3 @@ Aceste aspecte le-am studiat, intelegand acum notiunea de overflow.
 3.Ce se intampla daca tin apasat un buton? - m-am documentat despre implementarea
 unui edge detector
 
-4.In momentul in care se incrementeaza numarul maxim, este necesar sa aprind un alt led pe placa pentru a sti acest lucru?
