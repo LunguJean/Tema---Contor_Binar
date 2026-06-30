@@ -19,11 +19,17 @@ din ECE 3300.
 
 Am inceput prin a defini semnalele de intrare pentru contorul de 16 biti, ce vor fi sincronizate
 dupa frontul pozitiv de ceas (clk) pentru o funtionare corecta si precisa
+
 -inc (butonul pentru incrementare)
+
 -dec (butonul pentru decrementare)
+
 -reset ( butonul pentru reset)
-precum si cele de iesire 
+
+precum si cele de iesire
+
 -out[15:0] ( 16 led-uri , un led reprezentand un bit al valorii contorului)
+
 -value[15:0] (registru ce retine valoarea curenta si afisata pe leduri)
 
 Am realizat un debouncer pentru fiecare buton deoarece butoanele produc oscilatii ale semnalului ce pot fi interpretate 
