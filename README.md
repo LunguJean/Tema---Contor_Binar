@@ -18,7 +18,8 @@ Inainte de a incepe proiectul, am facut o recapitulare a notiunilor studiate la 
 din ECE 3300.
 
 Am inceput prin a defini semnalele de intrare pentru contorul de 16 biti, ce vor fi sincronizate
-dupa frontul pozitiv de ceas (clk) pentru o funtionare corecta si precisa
+dupa frontul pozitiv de ceas (clk) pentru o funtionare corecta si precisa ( sincronizarea
+se face in modulul sync)
 
 -inc (butonul pentru incrementare)
 
