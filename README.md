@@ -27,7 +27,8 @@ precum si cele de iesire
 -value[15:0] (registru ce retine valoarea curenta si afisata pe leduri)
 
 Am realizat un debouncer pentru fiecare buton deoarece butoanele produc oscilatii ale semnalului ce pot fi interpretate 
-ca apasare repetata ( ECE3300:55 ). 
+ca apasare repetata ( ECE3300:55 ).
+
 A fost necesara adaugarea modului edge_det. Acesta transforma apasarea unui buton 
 intr-un impuls de exact un ciclu de ceas prin detectarea frontului crescator.
 
